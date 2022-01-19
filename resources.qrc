@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>icons/icon.png</file>
+        <file>icons/icon_copy.png</file>
+        <file>icons/icon_paste.png</file>
+        <file>icons/icon_save.png</file>
+        <file>icons/icon_undo.png</file>
+        <file>icons/icon_close.png</file>
+        <file>icons/icon_cut.png</file>
+        <file>icons/icon_open.png</file>
+        <file>icons/icon_new.png</file>
+        <file>icons/icon_redo.png</file>
+        <file>icons/icon_zoom_in.png</file>
+        <file>icons/icon_zoom_out.png</file>
+    </qresource>
+</RCC>
